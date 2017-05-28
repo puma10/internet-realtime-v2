@@ -1,0 +1,10 @@
+{
+  "name": "Internet in real time 2",
+  "version": "1.0.0",
+  "description": "Internet in the real time, second template",
+  "main": "aindex.html",
+  "dependencies": {
+  },
+  "author": "Alina Fedorchuk",
+  "license": "ISC"
+}

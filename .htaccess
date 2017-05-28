@@ -1,0 +1,12 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^www\.
+RewriteCond %{HTTPS}s on(s)|offs()
+#RewriteRule ^(.*)$ https://www.betfy.co.uk/internet-realtime/$1 [R,L]
+
+#AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript
+
+SetOutputFilter 'http://w.sharethis.com/button/buttons.js'
+
+#Header set Cache-Control "max-age=2592000, public"
+
+

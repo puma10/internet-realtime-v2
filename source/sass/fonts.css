@@ -1,0 +1,54 @@
+ @font-face {
+      font-family: 'Raleway';
+      /*src: url('fonts/besom/besom.eot');
+      src: url('fonts/besom/besom.eot?#iefix') format('embedded-opentype'),
+           url('fonts/besom/besom.woff2') format('woff2'),
+           url('fonts/besom/besom.woff') format('woff'),*/
+      src: url('fonts/Raleway/Raleway-Regular.ttf') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+  }
+
+ @font-face {
+      font-family: 'Nunito';
+      /*src: url('fonts/besom/besom.eot');
+      src: url('fonts/besom/besom.eot?#iefix') format('embedded-opentype'),
+           url('fonts/besom/besom.woff2') format('woff2'),
+           url('fonts/besom/besom.woff') format('woff'),*/
+      src: url('fonts/Nunito/Nunito-Regular.ttf') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+  }
+
+   @font-face {
+      font-family: 'Dosis';
+      /*src: url('fonts/besom/besom.eot');
+      src: url('fonts/besom/besom.eot?#iefix') format('embedded-opentype'),
+           url('fonts/besom/besom.woff2') format('woff2'),
+           url('fonts/besom/besom.woff') format('woff'),*/
+      src: url('fonts/Dosis/Dosis-Regular.ttf') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+  }
+
+   @font-face {
+      font-family: 'Asap';
+      /*src: url('fonts/besom/besom.eot');
+      src: url('fonts/besom/besom.eot?#iefix') format('embedded-opentype'),
+           url('fonts/besom/besom.woff2') format('woff2'),
+           url('fonts/besom/besom.woff') format('woff'),*/
+      src: url('fonts/Asap/Asap-Regular.ttf') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+  }
+
+   @font-face {
+      font-family: 'Quicksand';
+      /*src: url('fonts/besom/besom.eot');
+      src: url('fonts/besom/besom.eot?#iefix') format('embedded-opentype'),
+           url('fonts/besom/besom.woff2') format('woff2'),
+           url('fonts/besom/besom.woff') format('woff'),*/
+      src: url('fonts/Quicksand/Quicksand-Regular.ttf') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+  }
