@@ -40,8 +40,8 @@ README v2.0 / 28 May 2017
     <li>Javascript</li>
     <li>jQuery 2.1.4</li>
     <li>Flexbox</li>
-    <li>Jade</li>
-    <li>SCSS</li> 
+    <li>Jade - compiler for html</li>
+    <li>SCSS - preprocessor for css</li> 
     <li>Font Awesome</li> 
     <li>Sharethis - api for share buttons for social media</li> 
     <li>Gulp - setting up workflow</li>
